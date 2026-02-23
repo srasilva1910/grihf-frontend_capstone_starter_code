@@ -89,6 +89,15 @@
     border-radius: 4px; /* Add border radius for rounded corners */
 }
 
+.role {
+    background-color: #fff;
+    width: 40%; /* Set width of form controls */
+    padding: 8px; /* Add padding inside form controls */
+    font-size: 16px; /* Set font size */
+    border-radius: 4px;
+    border: 1px solid #ccc; /* Add border with color */
+}
+
 /* Styles for button group in the signup form */
 .btn-group {
     margin-top: .0001px; /* Add a small top margin to button group */
